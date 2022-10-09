@@ -1,4 +1,4 @@
-## KCEspot - Hacktoberfest Beginner Contribution 2022
+## KCEspot - Hacktoberfest Flutter Contribution 2022
 
 How to Contribute.
 
